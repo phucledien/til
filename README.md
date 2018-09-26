@@ -7,5 +7,5 @@ Just a place for me to store what i've learned everyday.
 
 ## About me
 
-- Blog: [](http://phucledien.github.io)
+- Blog: <http://phucledien.github.io>
  
