@@ -2,8 +2,8 @@
 
 Just a place for me to store what i've learned everyday.
 
-- New TIL: https://github.com/phucledien/til/issues/new
-- Dashboard: https://github.com/phucledien/til/issues
+- Dashboard: https://github.com/phucledien/til/discussions
+- The archived #TIL: https://github.com/phucledien/til/issues
 
 ## About me
 
